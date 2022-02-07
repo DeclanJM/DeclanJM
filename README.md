@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DeclanJM
-- 👀 I’m interested in learning python and moving on to some possible web apps, maybe dart and make an ios application.
-- 🌱 I’m currently learning some basic encryption on files for user data.
+- 👋 Hi, I’m @DeclanJM. I'm a CS major at Colorado State University.
+- 👀 I’m interested in developing programs that read/manipulate large datasets.
+- 🌱 I’m currently learning Java.
 
 <!---
 DeclanJM/DeclanJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
