@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C++.
 
 
-[![Declan's GitHub stats](https://github-readme-stats.vercel.app/api?username=declanjm)](https://github.com/declanjm/github-readme-stats)
+<!---[![Declan's GitHub stats](https://github-readme-stats.vercel.app/api?username=declanjm)](https://github.com/declanjm/github-readme-stats) --->
+
 
 <!---
 DeclanJM/DeclanJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
