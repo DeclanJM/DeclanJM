@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeclanJM. I'm a CS major at Colorado State University with an interest in Computer Vision and Cybersecurity.
 - 👀 I’m interested in developing programs that read/manipulate large datasets.
 - 🌱 I’m currently learning PostgreSQL.
-- 💻 I am JR Systems Engineer for [myNetWatchman](https://www.mynetwatchman.tech/)
+- 💻 I am a Jr Systems Engineer for [myNetWatchman](https://www.mynetwatchman.tech/)
 
 
 <!---[![Declan's GitHub stats](https://github-readme-stats.vercel.app/api?username=declanjm)](https://github.com/declanjm/github-readme-stats) --->
